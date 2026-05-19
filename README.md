@@ -6,25 +6,19 @@
 
 ## Demo Video
 
-<video src="https://github.com/Tejas5504/CreatorFlow-AI/raw/main/client/src/assets/demo_video.mp4" controls="controls" width="100%"></video>
+![Demo](https://github.com/CreatorFlow_AI/client/public/assets/demo_video-ezgif.com-video-to-gif-converter)
 
 ## Project Screenshots
 
-![Home Page](./client/public/assets/home-page-showcase.png)
+![Home Page](./client/public/assets/Home.png)
 
-![Thumbnail Generator](./client/public/assets/thumbnail-generator-showcase.png)
+![Thumbnail Generator](./client/public/assets/Thubnail.png)
 
-![Script Generator](./client/public/assets/script-generator-showcase.png)
+![Script Generator](./client/public/assets/Script.png)
 
-![My Generations Dashboard](./client/public/assets/my-generations-showcase.png)
+![My Generations Dashboard](./client/public/assets/History.png)
 
-![User Profile](./client/public/assets/my-profile-showcase.png)
-
-![Hero Section](./client/public/assets/hero-section-showcase.png)
-
-![Features Showcase 1](./client/public/assets/features-showcase-1.png)
-
-![Features Showcase 2](./client/public/assets/features-showcase-2.png)
+![User Profile](./client/public/assets/Profile.png)
 
 ---
 
