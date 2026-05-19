@@ -4,6 +4,28 @@
 
 ![CreatorFlow AI](./client/public/logo.png)
 
+## Demo Video
+
+<video src="./client/src/assets/demo_video.mp4" width="100%" controls></video>
+
+## Project Screenshots
+
+![Home Page](./client/public/assets/home-page-showcase.png)
+
+![Thumbnail Generator](./client/public/assets/thumbnail-generator-showcase.png)
+
+![Script Generator](./client/public/assets/script-generator-showcase.png)
+
+![My Generations Dashboard](./client/public/assets/my-generations-showcase.png)
+
+![User Profile](./client/public/assets/my-profile-showcase.png)
+
+![Hero Section](./client/public/assets/hero-section-showcase.png)
+
+![Features Showcase 1](./client/public/assets/features-showcase-1.png)
+
+![Features Showcase 2](./client/public/assets/features-showcase-2.png)
+
 ---
 
 ## Table of Contents
