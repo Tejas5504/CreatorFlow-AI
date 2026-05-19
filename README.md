@@ -6,7 +6,7 @@
 
 ## Demo Video
 
-<video src="./client/src/assets/demo_video.mp4" width="100%" controls></video>
+https://github.com/Tejas5504/CreatorFlow-AI/raw/main/client/src/assets/demo_video.mp4
 
 ## Project Screenshots
 
