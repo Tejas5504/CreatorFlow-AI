@@ -5,19 +5,23 @@
 ![CreatorFlow AI](./client/public/logo.png)
 
 ## Demo Video
-
-![Demo](https://github.com/CreatorFlow_AI/client/public/assets/demo_video-ezgif.com-video-to-gif-converter)
+ **Overview**
+![Demo](/client/public/assets/demo.gif)
 
 ## Project Screenshots
-
+ **Home Page**
 ![Home Page](./client/public/assets/Home.png)
 
+ **Thumbnail Generator**
 ![Thumbnail Generator](./client/public/assets/Thubnail.png)
 
+ **Script Generator**
 ![Script Generator](./client/public/assets/Script.png)
 
+ My Generations
 ![My Generations Dashboard](./client/public/assets/History.png)
 
+ **My Profile**
 ![User Profile](./client/public/assets/Profile.png)
 
 ---
