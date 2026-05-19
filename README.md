@@ -227,7 +227,6 @@ PORT=3000
 NODE_ENV=development
 ```
 
-> **Never commit your `.env` file.** Add it to `.gitignore` before pushing to a public repository.
 
 ### Running the App
 
@@ -393,17 +392,3 @@ A **fallback mechanism** is built in: if `llama-3.3-70b-versatile` is rate-limit
 ```
 
 ---
-
-## Future Scope
-
-- **Direct YouTube Upload** — OAuth integration to push thumbnails and script drafts straight to a creator's YouTube channel.
-- **Text Overlay on Thumbnails** — Use `sharp.js` or HTML Canvas to programmatically render the video title onto the generated image.
-- **A/B Thumbnail Testing** — Generate 3 thumbnail variants and track Click-Through Rates via YouTube Analytics integration.
-- **Voiceover Generation** — Integrate a TTS API (e.g., ElevenLabs) to convert the JSON script into a downloadable audio track.
-- **Multi-language Support** — Allow script generation in languages beyond English.
-
----
-
-## License
-
-This project is for personal/educational use. See `LICENSE` for details.
